@@ -1,1 +1,1 @@
-print("Afzina sadiq is a bad gurl")
+print("Afzina sadiq is a good gurl")
