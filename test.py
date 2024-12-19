@@ -1,1 +1,1 @@
-print("Hello worlds")
+print("Afzina sadiq is a bad gurl")
